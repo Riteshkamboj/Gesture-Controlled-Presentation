@@ -1,0 +1,5 @@
+opencv-python
+numpy
+cvzone
+Pillow
+mediapipe==0.8.11
